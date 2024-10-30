@@ -35,6 +35,12 @@ SELECT Reeducation, chirurgie, Assistance_med, Diag_spé FROM Robots_med_old;
 """)
 
 # Fonction pour ajouter les robots
+class robotics:
+    "Liste des robots et machines dans le secteur de la santé"
+    def __init__(self, nom, fonctionnalite):
+        self.nom = nom
+        self.fonctionnalite = fonctionnalite
+        
 def add_robots(cursor, con, robots):
     try:
         # Boucle pour insérer plusieurs robots
@@ -58,7 +64,7 @@ robots_to_add = [
     {'Reeducation': 'ReoGo', 'chirurgie': 'Robot Mako', 'Assistance_med': None, 'Diag_spé': None},
     {'Reeducation': 'Lokomat', 'chirurgie': 'CyberKnife', 'Assistance_med': None, 'Diag_spé': None},
     {'Reeducation': 'HapticMaster', 'chirurgie': 'Versius Surgical System', 'Assistance_med': None, 'Diag_spé': None}
-]
+]   
 
 # Appel de la fonction pour ajouter les robots
 add_robots(cursor, con, robots_to_add)
