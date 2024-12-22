@@ -7,14 +7,14 @@ de céer un visuel éducatif et ludique côté front. Par ailleurs, ce projet m'
 sera intégré au visuel de ce projet.
 
 ## Caractéristiques
-État du projet : En cours 
-Nombre de participants : 1 (solo)
-Technologies : Python / Flask
-Refactorisation :  Non
-Responsivité : Non
-UX/UI : Non
-IDE : VSCode
-OS :Mac 
+État du projet : En cours /
+Nombre de participants : 1 (solo) /
+Technologies : Python / Flask /
+Refactorisation : Non /
+Responsivité : Non /
+UX/UI : Non /
+IDE : VSCode /
+OS : Mac /
 ## Utilisation
 S'exécute via un IDE VSCode de préférence
 ## Sources
