@@ -16,6 +16,6 @@ UX/UI : Non /
 IDE : VSCode /
 OS : Mac /
 ## Utilisation
-S'exécute via un IDE VSCode de préférence
+S'exécute via une IDE, VSCode de préférence
 ## Sources
 Santé Publique France et Flask documentation
