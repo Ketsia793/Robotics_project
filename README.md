@@ -19,3 +19,5 @@ OS : Mac /
 S'exécute via une IDE, VSCode de préférence
 ## Sources
 Santé Publique France et Flask documentation
+## Contributeurs
+* Celinelylou n'est pas contributrice de ce projet, elle était seulement détentrice de mon pc actuel et possédait la même clef SSH que j'ai actuellement. 
